@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "AzureMobileServicesTest", "AzureMobileServicesTest.fsproj", "{578FA341-4D2C-4775-8E1C-8915DD4CCF59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{578FA341-4D2C-4775-8E1C-8915DD4CCF59}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{578FA341-4D2C-4775-8E1C-8915DD4CCF59}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{578FA341-4D2C-4775-8E1C-8915DD4CCF59}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{578FA341-4D2C-4775-8E1C-8915DD4CCF59}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{578FA341-4D2C-4775-8E1C-8915DD4CCF59}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{578FA341-4D2C-4775-8E1C-8915DD4CCF59}.Debug|iPhone.Build.0 = Debug|iPhone
+		{578FA341-4D2C-4775-8E1C-8915DD4CCF59}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{578FA341-4D2C-4775-8E1C-8915DD4CCF59}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{578FA341-4D2C-4775-8E1C-8915DD4CCF59}.Release|iPhone.ActiveCfg = Release|iPhone
+		{578FA341-4D2C-4775-8E1C-8915DD4CCF59}.Release|iPhone.Build.0 = Release|iPhone
+		{578FA341-4D2C-4775-8E1C-8915DD4CCF59}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{578FA341-4D2C-4775-8E1C-8915DD4CCF59}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = AzureMobileServicesTest.fsproj
+	EndGlobalSection
+EndGlobal
